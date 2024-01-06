@@ -7,7 +7,7 @@
             <div class="flex flex-col items-center justify-between lg:flex-row py-16">
                 <div class=" relative ">
                     <div class=" absolute top-0 -left-48 z-0  opacity-50 ">
-                        <img src="" alt="small image" class="w-36 z-0  h-full    
+                        <img src="/images/Salon-Front.jpg" alt="small image" class="w-36 z-0  h-full    
                         object-fill fill-y text-y   ">
                     </div>
                     <div class="lg:max-w-xl lg:pr-5 relative z-40">
@@ -21,23 +21,20 @@
                             <span class="my-1 inline-block border-b-8 border-g4 
                                 bg-black px-4 font-bold text-g4 animate__animated animate__flash">different</span>
                         </h2>
-                        <p class="text-base text-white-700">Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                            accusantium doloremque it.</p>
-                        <div class="mt-10 flex flex-col items-center md:flex-row">
-                            <a href="/"
-                                class="mb-3 inline-flex h-12 w-full
-                                 items-center justify-center rounded bg-pink-600 px-6 font-medium tracking-wide text-white shadow-md transition hover:bg-blue-800 focus:outline-none md:mr-4 md:mb-0 md:w-auto">
-                                View More</a>
-                            <a href="/" aria-label="" class="group inline-flex items-center font-semibold text-g1">Watch how
-                                it works
-                                <svg xmlns="http://www.w3.org/2000/svg"
-                                    class="ml-4 h-6 w-6 transition-transform group-hover:translate-x-2" fill="none"
-                                    viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-                                    <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3">
-                                    </path>
-                                </svg>
-                            </a>
+                        <div class="flex">
+                            <div class="w-1/2 p-4">
+                                <h2 class="text-xl text-pink font-semibold mb-4">Mission</h2>
+                                <p>To offer friendly, personalized services through a
+                                    team of high skilled and creative professionals in a clean relaxing environment. We
+                                    embrace excellence.</p>
+                            </div>
+                            <div class="w-1/2 p-4">
+                                <h2 class="text-xl text-pink font-semibold mb-4">Vision</h2>
+                                <p>To be recognized by our clients, and the industry as the leading and most efficient
+                                    providers for hair, beauty and spa services.</p>
+                            </div>
                         </div>
+
                     </div>
 
 
@@ -50,7 +47,7 @@
                     </svg>
                     <div
                         class="abg-orange-400 mx-auto w-fit overflow-hidden rounded-[6rem] rounded-br-none rounded-tl-none">
-                        <img src="" alt="Hero Image">
+                        <img src="/images/Washing.jpg" alt="Hero Image">
                     </div>
                 </div>
             </div>
